@@ -1,8 +1,1 @@
-# 使用python模拟ORCA算法
-
-[动画绘制](https://blog.csdn.net/a2213086589/article/details/103557158)
-
-
-
-
-
+* 在simulator_ROS中使用的rotors_simulator是git://github.com/ethz-asl/rotors_simulator.git中的内容
